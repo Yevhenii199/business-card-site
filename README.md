@@ -1,31 +1,45 @@
-## business-card-site
+## 📁 **Repository:** 
+```https://github.com/Yevhenii199/business-card-site```
+
+## 📄 Overview
 One-page business card website for presenting the services of a private master
 
-## 🔧 Project Description
 
-The site contains:
+## 📱 Adaptability
+The site is correctly displayed on mobile devices thanks to media queries and a flexible grid.
 
-- Name and short description
-- List of services with detailed description and images:
+## 📇 Contacts
+Interactive links for communication via:
 
-- Gardener services
-- General work
-- Minor technical repairs
-- Plumbing work
-- Contact information with icons (phone, WhatsApp, mail, Viber)
+- Email
+- Phone
+- WhatsApp
+- Viber
+
+## 🔧 How to Run Locally
+1.Clone the repository:
+
+```bash
+git clone https://github.com/Yevhenii199/business-card-site
 ```
+
+2.Navigate to the project directory:
+
+```bash
+cd business-card-site
+```
+
+3.Open the **index.html** file in your browser
+
+
 ## 📁 Folder Structure
+```
 business-card-site/
 ├── css/
-│ └── index.css # Styles 
-├── images/ # All project images 
-├── index.html # Main HTML page
+│   └── index.css
+├── images/
+├── index.html
+└── README.md
 ```
-##🧪 How to Use
-Clone the Repository git clone https://github.com/Yevhenii199/business-card-site 
-cd business-card-site Open the Project
-Open index.html in your preferred browser:
 
-You can update styles in /css/, images in /images/, or tweak the HTML structure as needed.
-
-📧 Contact For questions or suggestions, reach out at gshijanov5@gmail.com
+## 📧 Contact For questions or suggestions, reach out at gshijanov5@gmail.com
